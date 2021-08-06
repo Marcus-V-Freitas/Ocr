@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcrSCGA", "OcrSCGA.csproj", "{7CF8D822-7A92-42A6-B9E3-20EED87E01ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7C8E39D9-F93B-49AF-9450-43201AAC3710}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CF8D822-7A92-42A6-B9E3-20EED87E01ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF8D822-7A92-42A6-B9E3-20EED87E01ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF8D822-7A92-42A6-B9E3-20EED87E01ED}.Debug|x86.ActiveCfg = Debug|x86
+		{7CF8D822-7A92-42A6-B9E3-20EED87E01ED}.Debug|x86.Build.0 = Debug|x86
+		{7CF8D822-7A92-42A6-B9E3-20EED87E01ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF8D822-7A92-42A6-B9E3-20EED87E01ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CF8D822-7A92-42A6-B9E3-20EED87E01ED}.Release|x86.ActiveCfg = Release|x86
+		{7CF8D822-7A92-42A6-B9E3-20EED87E01ED}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC83E3CA-A77A-4D50-8F9D-F2DDAE767554}
+	EndGlobalSection
+EndGlobal

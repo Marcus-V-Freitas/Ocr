@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# CS1690: Acessar um membro em um campo de uma classe de marshaling por referência pode gerar uma exceção de tempo de execução
+dotnet_diagnostic.CS1690.severity = none
+
+# CS0197: Usar um campo de uma classe marshaling por referência como um valor ref ou out ou obter seu endereço pode gerar uma exceção de tempo de execução
+dotnet_diagnostic.CS0197.severity = none
